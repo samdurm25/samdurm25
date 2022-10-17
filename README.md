@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://leetcode-stats-six.vercel.app/api?username=sjannali)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sjannali)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **samdurm25/samdurm25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
